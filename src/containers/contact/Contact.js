@@ -7,6 +7,11 @@ import email from "../../assets/lottie/email";
 import DisplayLottie from "../../components/displayLottie/DisplayLottie";
 import StyleContext from "../../contexts/StyleContext";
 
+
+/**
+ * Updating some functions...
+ * @returns 
+ */
 export default function Contact() {
   const {isDark} = useContext(StyleContext);
   return (
